@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zefzl3b2y-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zefzl3b2y-python
